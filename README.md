@@ -5,5 +5,5 @@ I am Ashutosh Srivastava
 - 🌱 I’m currently learning React and AI with Python
 - 👯 I’m looking to collaborate on anything that can help me to grow
 - 🤔 I’m looking for help with AI
-- 📫 How to reach me: ashutosh.srivastava48@gmail.com
+- 📫 How to reach me: erashu@live.in
 
